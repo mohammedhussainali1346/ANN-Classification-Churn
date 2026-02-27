@@ -65,7 +65,6 @@ ANN-Classification-Churn/
 ├── README.md
 └── LICENSE
 
-
 ---
 
 ## 🎯 Output
@@ -74,6 +73,12 @@ The app displays:
 
 - Churn Probability (0 to 1)
 - Prediction (Will Churn / Will Not Churn)
+
+---
+
+## 🌐 Streamlit Deployment
+
+Access the live app here: [Bank Churn Prediction App](https://ann-classification-churn-tvpzgiqm75bpm8bhh88r3t.streamlit.app/)
 
 ---
 
